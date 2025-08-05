@@ -2,5 +2,6 @@
 using namespace std;
 
 int main() {
-cout << "tryna commit via vscode" << endl;
-};
+cout << "github trial and it works" << endl;
+return 0;
+}
